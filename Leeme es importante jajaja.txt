@@ -1,0 +1,6 @@
+el archivo:
+	Contact.html = para los PDF
+	portFolio.html = para las imagenes
+	about.html = sobre o la descripccion
+
+lo demas normal
